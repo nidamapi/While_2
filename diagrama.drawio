@@ -54,7 +54,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="10" value="h = 1h-0.1*h&lt;br&gt;n = n+1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+                <mxCell id="10" value="h = h-0.1*h&lt;br&gt;n = n+1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
                     <mxGeometry x="220" y="490" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="12" value="v" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
